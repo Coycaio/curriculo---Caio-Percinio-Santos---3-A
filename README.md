@@ -85,7 +85,7 @@
     <p>🎓 Estudante de Programação</p>
     <p>📍 Recife, Pernambuco</p>
     <p>📧 <a href="mailto:caiopsantos@cetii.pe.senac.br" style="color:white;">caiopsantos@cetii.pe.senac.br gmail</a></p>
-    <p>🌐 <a href="https://github.com/kalelpaes" style="color:white;">github.com/kalelpaes</a></p>
+    <p>🌐 <a href="https://github.com/coycaio" style="color:white;">github.com/coycaio</a></p>
   </header>
 
   <section>
